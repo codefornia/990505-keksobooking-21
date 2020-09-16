@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Irina Slukina](https://up.htmlacademy.ru/javascript/21/user/990505).
-* Наставник: `Неизвестно`.
+* Наставник: [Pavel Erastov](https://htmlacademy.ru/profile/id1032917).
 
 ---
 
